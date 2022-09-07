@@ -8,7 +8,7 @@ authors:
 - family-names: "Patrick J."
   given-names: "Flynn"
 title: "Haven't I Seen You Before? Assessing Identity Leakage in Synthetic Irises"
-  date-released: 2022-09-07
+date-released: 2022-09-07
 url: "https://github.com/CVRL/TIDNE"
 preferred-citation:
 - family-names: "Patrick"
