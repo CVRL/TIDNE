@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Patrick"
-  given-names: "Tinsley"
-- family-names: "Adam"
-  given-names: "Czajka"
-- family-names: "Patrick J."
-  given-names: "Flynn"
+- family-names: "Tinsley"
+  given-names: "Patrick"
+- family-names: "Czajka"
+  given-names: "Adam"
+- family-names: "Flynn"
+  given-names: "Patrick J."
 title: "Haven't I Seen You Before? Assessing Identity Leakage in Synthetic Irises"
 journal: "IEEE/IAPR International Join Conference on Biometrics -- Special Session on Recent Advances in Detecting Manipulation Attacks on Biometric Systems (ADMA-2022)"
 year: 2022
