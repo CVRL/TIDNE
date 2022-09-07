@@ -8,7 +8,7 @@ authors:
 - family-names: "Patrick J."
   given-names: "Flynn"
 title: "Haven't I Seen You Before? Assessing Identity Leakage in Synthetic Irises"
-date-released: 2022-09-07
+  date-released: 2022-09-07
 url: "https://github.com/CVRL/TIDNE"
 preferred-citation:
 - family-names: "Patrick"
@@ -16,9 +16,9 @@ preferred-citation:
 - family-names: "Adam"
   given-names: "Czajka"
 - family-names: "Patrick J."
-  journal: "IEEE/IAPR International Join Conference on Biometrics -- Special Session on Recent Advances in Detecting Manipulation Attacks on Biometric Systems (ADMA-2022)"
-  month: 10
-  start: 1 # First page number
-  end: 10 # Last page number
-  title: "Haven't I Seen You Before? Assessing Identity Leakage in Synthetic Irises"
-  year: 2022
+journal: "IEEE/IAPR International Join Conference on Biometrics -- Special Session on Recent Advances in Detecting Manipulation Attacks on Biometric Systems (ADMA-2022)"
+month: 10
+start: 1 # First page number
+end: 10 # Last page number
+title: "Haven't I Seen You Before? Assessing Identity Leakage in Synthetic Irises"
+year: 2022
