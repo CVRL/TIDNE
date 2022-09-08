@@ -2,13 +2,13 @@
 
 ![Teaser image](./grid-teaser-ours.png)
 
-This work trains NVIDIA's StyleGAN3 architecture (forked) on iris image data used by Czajka et al. in "Pupil Dynamics for Iris Liveness Detection." Ti generate images, first download our pre-trained model from [here](https://drive.google.com/drive/folders/1cG0R-YS5yYEz2m8qS9b4JBmiODJIg05n?usp=sharing). Then, place it in the `./networks` directory of this cloned repository. Use the following command and README instructions to generate images of fake irises (our model), fake faces (their FFHQ model), and other fake objects (with models found online).
+This work trains NVIDIA's StyleGAN3 architecture (forked) on iris image data used by Czajka et al. in "Pupil Dynamics for Iris Liveness Detection." In order to generate images, first download our pre-trained model from [here](https://drive.google.com/drive/folders/1cG0R-YS5yYEz2m8qS9b4JBmiODJIg05n?usp=sharing). Then, place it in the `./networks` directory of this cloned repository. Use the following command and README instructions to generate images of fake irises (our model), fake faces (their FFHQ model), and other fake objects (with models found online).
 
 Image generation commands with **our** model would look like: 
 
 ```.bash
 # Generate an image using our pre-trained iris model
-python gen_images.py --outdir=out --trunc=1 --seeds=1-5 \
+python gen_images.py --outdir=out --trunc=0.5 --seeds=1-10 \
     --network=./networks/network-snapshot-004640.pkl --color=0
 ```
 
